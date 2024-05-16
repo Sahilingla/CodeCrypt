@@ -21,6 +21,7 @@ HTML Structure:
 2.) Within the <head> section, various metadata is defined, including character encoding, viewport settings, and links to external resources such as CSS stylesheets and font libraries.
 3.) The <body> section contains the main content of the website, including the navigation bar, sections for showcasing different aspects of the restaurant, such as about, food categories, menu, testimonials, and contact information.
 4.) Each section is defined using <section> tags with unique IDs (id="about", id="food", id="food-menu", id="testimonials", id="contact"), allowing for easy navigation within the page.
+Styling with CSS:
 
 
 
