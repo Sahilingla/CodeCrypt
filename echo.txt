@@ -21,3 +21,4 @@ bag
 books
 cold
 hold
+dry
