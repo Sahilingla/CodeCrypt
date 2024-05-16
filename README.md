@@ -14,8 +14,7 @@ TESTER -- Ashish
 3.) Popular Dishes: A visually engaging section featuring high-quality images of our most popular dishes, encouraging visitors to explore our menu further.
 4.) Food Menu: A detailed menu section that presents our diverse culinary offerings. Each dish is accompanied by a description and pricing, helping guests make informed choices.
 5.) Testimonials: A section showcasing reviews from satisfied customers. This not only builds trust but also provides potential guests with a glimpse of the delightful experiences they can expect.
-
-Responsive Design: The website is designed to be fully responsive, ensuring a smooth and enjoyable browsing experience on devices of all sizes, from desktops to mobile phones.
+6.) Responsive Design: The website is designed to be fully responsive, ensuring a smooth and enjoyable browsing experience on devices of all sizes, from desktops to mobile phones.
 
 
 
