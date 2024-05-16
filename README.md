@@ -11,7 +11,7 @@ TESTER -- Ashish
 # KEY FEATURES :
 1.) Showcase Area: A captivating homepage that welcomes visitors with a compelling introduction to our restaurant. It highlights our culinary excellence and invites users to explore our menu.
 2.) About Section: An informative section that tells the story of our restaurant. It emphasizes our dedication to using the freshest ingredients and delivering top-notch service.
-Popular Dishes: A visually engaging section featuring high-quality images of our most popular dishes, encouraging visitors to explore our menu further.
+3.) Popular Dishes: A visually engaging section featuring high-quality images of our most popular dishes, encouraging visitors to explore our menu further.
 
 
 
