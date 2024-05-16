@@ -19,3 +19,4 @@ bed
 stick
 bag
 books
+cold
