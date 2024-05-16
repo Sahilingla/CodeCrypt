@@ -22,7 +22,11 @@ HTML Structure:
 3.) The <body> section contains the main content of the website, including the navigation bar, sections for showcasing different aspects of the restaurant, such as about, food categories, menu, testimonials, and contact information.
 4.) Each section is defined using <section> tags with unique IDs (id="about", id="food", id="food-menu", id="testimonials", id="contact"), allowing for easy navigation within the page.
 Styling with CSS:
-
+1.) The CSS styles are included within <style> tags in the <head> section of the HTML document.
+2.) Various CSS rules are defined to style different elements of the website, including fonts, colors, layout, responsiveness, and animations.
+3.) The CSS rules are organized into sections corresponding to different parts of the website, such as the navbar, showcase area, about section, food categories, food menu, testimonials, contact form, and footer.
+4.) Media queries are used to make the website responsive, adjusting the layout and styling for different screen sizes and devices.
+Responsive Design:
 
 
 
