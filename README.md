@@ -9,3 +9,7 @@ MANAGER -- Liza Garg
 DEVELOPER -- Sahil Singla
 TESTER -- Ashish
 # KEY FEATURES :
+1.) Showcase Area: A captivating homepage that welcomes visitors with a compelling introduction to our restaurant. It highlights our culinary excellence and invites users to explore our menu.
+
+
+
