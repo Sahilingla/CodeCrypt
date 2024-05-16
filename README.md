@@ -27,6 +27,10 @@ Styling with CSS:
 3.) The CSS rules are organized into sections corresponding to different parts of the website, such as the navbar, showcase area, about section, food categories, food menu, testimonials, contact form, and footer.
 4.) Media queries are used to make the website responsive, adjusting the layout and styling for different screen sizes and devices.
 Responsive Design:
+1.) Media queries are used to define different CSS styles based on the screen width, ensuring that the website layout adapts well to various devices, including desktops, tablets, and smartphones.
+2.) The navbar and menu items are designed to collapse into a hamburger menu on smaller screens, providing better usability for mobile users.
+3.) Images and content are scaled and repositioned to fit smaller screens without sacrificing readability or usability.
+
 
 
 
