@@ -16,3 +16,4 @@ shoes
 socks
 cloth
 bed
+stick
