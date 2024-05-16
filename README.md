@@ -17,10 +17,10 @@ TESTER -- Ashish
 6.) Responsive Design: The website is designed to be fully responsive, ensuring a smooth and enjoyable browsing experience on devices of all sizes, from desktops to mobile phones.
 # Technologies used: 
 HTML Structure:
-The HTML document starts with the <!DOCTYPE html> declaration, indicating that it follows the HTML5 standard.
-Within the <head> section, various metadata is defined, including character encoding, viewport settings, and links to external resources such as CSS stylesheets and font libraries.
-The <body> section contains the main content of the website, including the navigation bar, sections for showcasing different aspects of the restaurant, such as about, food categories, menu, testimonials, and contact information.
-Each section is defined using <section> tags with unique IDs (id="about", id="food", id="food-menu", id="testimonials", id="contact"), allowing for easy navigation within the page.
+1.) The HTML document starts with the <!DOCTYPE html> declaration, indicating that it follows the HTML5 standard.
+2.) Within the <head> section, various metadata is defined, including character encoding, viewport settings, and links to external resources such as CSS stylesheets and font libraries.
+3.) The <body> section contains the main content of the website, including the navigation bar, sections for showcasing different aspects of the restaurant, such as about, food categories, menu, testimonials, and contact information.
+4.) Each section is defined using <section> tags with unique IDs (id="about", id="food", id="food-menu", id="testimonials", id="contact"), allowing for easy navigation within the page.
 
 
 
