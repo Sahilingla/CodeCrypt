@@ -12,3 +12,4 @@ cook
 coca
 cola
 guitar
+shoes
