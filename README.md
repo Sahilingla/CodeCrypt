@@ -32,6 +32,7 @@ Responsive Design:
 3.) Images and content are scaled and repositioned to fit smaller screens without sacrificing readability or usability.
 # Problems Faced:
 1.) Issues like elements overlapping, text becoming too small or too large, or layout inconsistencies have occurred during testing.
+2.)  While the code includes sections for various elements like navigation, about us, food categories, etc., the actual functionality such as navigation links, form submissions, or interactive elements like sliders or carousels were missing and incomplete.
 
 
 
