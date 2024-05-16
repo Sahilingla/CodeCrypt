@@ -18,3 +18,4 @@ cloth
 bed
 stick
 bag
+books
