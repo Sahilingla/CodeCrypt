@@ -34,6 +34,7 @@ Responsive Design:
 1.) Issues like elements overlapping, text becoming too small or too large, or layout inconsistencies have occurred during testing.
 2.)  While the code includes sections for various elements like navigation, about us, food categories, etc., the actual functionality such as navigation links, form submissions, or interactive elements like sliders or carousels were missing and incomplete.
 3.) Hardcoding values like URLs, image paths, or content text directly into the HTML or CSS could make it difficult to update or localize the website content in the future.
+# Conclusion : 
 
 
 
