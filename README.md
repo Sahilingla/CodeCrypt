@@ -8,3 +8,4 @@ Our website isn't just about pixels and code; it's a canvas upon which we paint 
 MANAGER -- Liza Garg
 DEVELOPER -- Sahil Singla
 TESTER -- Ashish
+# KEY FEATURES :
