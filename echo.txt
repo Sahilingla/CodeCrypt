@@ -14,3 +14,4 @@ cola
 guitar
 shoes
 socks
+cloth
