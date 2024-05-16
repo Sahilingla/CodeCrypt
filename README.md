@@ -31,8 +31,7 @@ Responsive Design:
 2.) The navbar and menu items are designed to collapse into a hamburger menu on smaller screens, providing better usability for mobile users.
 3.) Images and content are scaled and repositioned to fit smaller screens without sacrificing readability or usability.
 # Problems Faced:
-
-
+1.) Issues like elements overlapping, text becoming too small or too large, or layout inconsistencies have occurred during testing.
 
 
 
