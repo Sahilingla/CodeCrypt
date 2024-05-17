@@ -6,11 +6,11 @@ This project aims to create a visually appealing and user-friendly website for o
 Our website isn't just about pixels and code; it's a canvas upon which we paint the essence of Our Restaurant. Every design element, every line of code, and every image is carefully curated to reflect our values, philosophy, and passion for culinary excellence.
 
 # NAME OF TEAM -- TasteTech Team
-MANAGER -- Liza Garg
+MANAGER -- Liza Garg (2310991334)
 
-DEVELOPER -- Sahil Singla
+DEVELOPER -- Sahil Singla (2310991351)
 
-TESTER -- Ashish
+TESTER -- Ashish (2310991371)
 
 # KEY FEATURES :
 1.) Showcase Area: A captivating homepage that welcomes visitors with a compelling introduction to our restaurant. It highlights our culinary excellence and invites users to explore our menu.
