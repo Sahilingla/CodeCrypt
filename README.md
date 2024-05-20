@@ -49,6 +49,20 @@ In an era where digital experiences play an integral role in shaping consumer de
 1. Issues like elements overlapping, text becoming too small or too large, or layout inconsistencies have occurred during testing.
 2. While the code includes sections for various elements like navigation, about us, food categories, etc., the actual functionality such as navigation links, form submissions, or interactive elements like sliders or carousels were missing and incomplete.
 3. Hardcoding values like URLs, image paths, or content text directly into the HTML or CSS could make it difficult to update or localize the website content in the future.
+4. Elements not scaling properly on different devices, causing horizontal scrolling or content overflow.
+Breakpoints not well-defined, leading to inconsistent appearances between different screen sizes.
+Cross-Browser Compatibility:
+
+5. Styles or functionalities that work in one browser but fail in others due to lack of testing or use of non-standard features.
+Performance Optimization:
+
+6. Large images not optimized for web, causing slow loading times.
+JavaScript files not minified, leading to larger-than-necessary file sizes and slower page load times.
+Accessibility Issues:
+
+7. Missing alt text for images, making the site less accessible for screen reader users.
+Inadequate color contrast between text and background, making it difficult for visually impaired users to read content.
+
 
 ## Conclusion <a name="conclusion"></a>
 In conclusion, the provided code lays the foundation for a responsive and visually appealing restaurant website. It incorporates various sections such as navigation, about us, food categories, menu, testimonials, and a contact form. The design is modern, with attractive imagery and well-organized content.
