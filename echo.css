@@ -4,7 +4,12 @@
           font-family: Arial, Helvetica, sans-serif;
         
         }
-       
+        .border-wrap{
+          border-style: dotted;
+          border-radius: 6px;
+          min-height: 90vh;
+          min-width: 50vh;
+          background-color: blanchedalmond;
         }
         
         .flip-card {
