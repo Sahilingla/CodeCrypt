@@ -4,66 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-      *{margin: 0;padding: 0;box-sizing: border-box;}
-        body {
-          font-family: Arial, Helvetica, sans-serif;
-        
-        }
-        .border-wrap{
-          border-style: dotted;
-          border-radius: 6px;
-          min-height: 90vh;
-          min-width: 50vh;
-          background-color: blanchedalmond;
-        }
-        
-        .flip-card {
-          background-color: transparent;
-         width: 30%;
-          height: 300px;
-          perspective: 1000px;
-        }
-        
-        .flip-card-inner {
-          position: relative;
-          width: 100%;
-          height: 100%;
-          text-align: center;
-          transition: transform 0.6s;
-          transform-style: preserve-3d;
-          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-        }
-        
-        .flip-card:hover .flip-card-inner {
-          transform: rotateY(180deg);
-        }
-        
-        .flip-card-front, .flip-card-back {
-          position: absolute;
-          width: 100%;
-          height: 100%;
-          -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
-        }
-        
-        .flip-card-front {
-          background-color: #bbb;
-          color: black;
-        }
-        
-        .flip-card-back {
-          background-color: #2980b9;
-          color: white;
-          transform: rotateY(180deg);
-        }
-        .container{
-          display: flex;
-          justify-content: space-between;
-          border: 1px solid;
-          margin-top: 3rem;
-        }
-        </style>
+    
         </head>
         <body>
         
