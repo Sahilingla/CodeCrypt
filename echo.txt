@@ -12,10 +12,7 @@
           <div class="border-wrap">
         <h1 style="color: #2980b9;font-size: 90px;"><center><i>CONTACT US</i></center></h1>
        
-        <div class="container">
-          <div class="flip-card">
-            <div class="flip-card-inner">
-              <div class="flip-card-front">
+        
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRUgMm9_VI30SboG8oJuM0I4piVzNVUkiyA&usqp=CAU"  alt="Avatar" style="width:300px;height:300px;">
               </div>
               <div class="flip-card-back">
