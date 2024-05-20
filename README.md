@@ -33,6 +33,8 @@ In an era where digital experiences play an integral role in shaping consumer de
 - Within the <head> section, various metadata is defined, including character encoding, viewport settings, and links to external resources such as CSS stylesheets and font libraries.
 - The <body> section contains the main content of the website, including the navigation bar, sections for showcasing different aspects of the restaurant, such as about, food categories, menu, testimonials, and contact information.
 - Each section is defined using <section> tags with unique IDs (id="about", id="food", id="food-menu", id="testimonials", id="contact"), allowing for easy navigation within the page.
+- The document follows a standard structure with the <!DOCTYPE html> declaration at the top, indicating adherence to HTML5 standards.
+- The <html> tag includes a lang attribute set to "en" for English, aiding accessibility and search engines.
 
 ### Styling with CSS:
 - The CSS styles are included within <style> tags in the <head> section of the HTML document.
